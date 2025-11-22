@@ -164,4 +164,3 @@ Rscript start.R
 ---
 
 
-Kalau kamu mau, aku bisa sekalian **buatkan versi API lengkap (api.R + start.R)** yang sudah siap pakai.
